@@ -1,0 +1,3 @@
+[submodule "themes/highway"]
+	path = themes/highway
+	url = https://github.com/ashishlahoti/hugo-theme-highway.git
