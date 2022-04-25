@@ -7,7 +7,8 @@ tags:
   - "Development"
   - "Tutorial"
 categories:
-  - "Tutorials"
+  - "Projects"
+  
 # Theme-Defined params
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page

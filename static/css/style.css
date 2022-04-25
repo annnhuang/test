@@ -43,7 +43,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: sans-serif;
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.6;
@@ -267,7 +267,7 @@ pre,
 code,
 kbd,
 samp {
-	font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+	font-family: inherit;
 	font-size: 0.875rem;
 	font-size: 14px;
 }
@@ -352,7 +352,7 @@ q {
 address {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
-	font-family: "Consolas", Courier New, Courier, monospace;
+	font-family: inherit;
 	line-height: 1.5;
 }
 
@@ -398,7 +398,7 @@ select {
 .logo {
 	padding: 25px;
 
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: sans-serif;
 }
 
 .logo__link {
@@ -613,7 +613,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .main__content h1, .main__header h1{
 	color: #000000;
 	margin: 0 0 2.5rem 0;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-family: aria;
 }
 
 .meta {
@@ -1335,7 +1335,7 @@ ul.share-icons li > * {
 ul.share-icons li > *:before {
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
+	font-family: Arial, Helvetica, sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	text-transform: none !important;

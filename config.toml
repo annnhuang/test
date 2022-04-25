@@ -13,21 +13,21 @@ theme = "highway"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "section"
-    name = "Section"
-    url = "/section"
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
     weight = 2
   [[menu.main]]
-    identifier = "category1"
-    name = "Category1"
-    url = "/categories/category1/"
-    parent = "section"
+    identifier = "tutorials"
+    name = "Tutorials"
+    url = "/projects/tutorials/"
+    parent = "projects"
     weight = 1
   [[menu.main]]
-    identifier = "category2"
-    name = "Category2"
-    url = "/categories/category2/"
-    parent = "section"
+    identifier = "academia"
+    name = "Academia"
+    url = "/projects/academia/"
+    parent = "projects"
     weight = 2
   [[menu.main]]
     identifier = "category3"
